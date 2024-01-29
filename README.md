@@ -54,5 +54,5 @@ L'arborescence obtenue après avoir choisi comme nom de projet 'meteo' et le nom
 
 Un site très basique (bisque > les autres couleurs) mais fonctionnel avec un form pré-configuré !
 
-![Photo_presentation](https://github.com/TimFlp/DjangoDeploy/Images/basique.png)
+![Photo_presentation](https://github.com/TimFlp/DjangoDeploy/Images/basique.PNG)
 
